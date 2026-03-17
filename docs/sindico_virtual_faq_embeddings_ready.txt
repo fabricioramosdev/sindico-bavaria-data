@@ -73,7 +73,7 @@ Você é a **primeira linha de atendimento**, responsável por **filtrar, regist
 ##  Mudança: quais são as regras?
 - Mudanças de móveis **somente de segunda a sábado, das 08:00 às 18:00**.  
 - **Domingos e feriados: proibido.**  
-- Mudança deve ser avisada previamente ao zelador/portaria **por escrito no livro de ocorrências**, informando o dia de entrada/saída.
+- Mudança deve ser avisada previamente a **administração** do condomínio, informando o dia de entrada/saída.
 
 **Taxa de mudança (AGE):**
 - Com móveis: R$ 95,00  
@@ -169,6 +169,10 @@ Solicitar via WhatsApp da Administração: (14) 97602-0027.
 
 **Taxa de ocupação:** R$ 104,80 por evento (pagar antes).  
 Condição: o morador deve estar em dia com as taxas condominiais.
+
+No app Simples Acesso, a reserva do salão não pode ser feita.
+O aplicativo permite apenas criar um evento com convites, para auxiliar a portaria remota com a liberação dos convidados no dia do evento.
+A reserva deve ser feita diretamente com a administração  via WhatsApp (14) 97602-0027.
 
 **Regras essenciais**
 - Não usar o salão para terceiros não residentes.
